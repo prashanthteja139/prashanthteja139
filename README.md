@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔍 Working as an **Investigation Associate** at **Amazon**
+- 🔍 Working as an ** Associate** at **Amazon**
 - 🌱 Actively learning **DevSecOps**, Terraform, Ansible, Kubernetes, Jenkins, and AWS
 - 💡 Passionate about building secure and scalable infrastructure
 - 🎯 Focused on career transition to **DevOps / DevSecOps Engineering**
