@@ -9,7 +9,7 @@
 
 👋 Hey there! I'm Prashanth Teja
 
-🚀 **DevSecOps & Cloud Enthusiast | Former Amazon Investigation Associate | Lifelong Learner**
+🚀 **DevSecOps & Cloud Enthusiast | Former Amazon DevOps Engineer | Lifelong Learner**
 
 ---
 
