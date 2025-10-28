@@ -7,42 +7,55 @@
 
 ---
 
-## 🚀 About Me
+👋 Hey there! I'm Prashanth Teja
 
-- 🔍 Working as an ** Associate** at **Amazon**
-- 🌱 Actively learning **DevSecOps**, Terraform, Ansible, Kubernetes, Jenkins, and AWS
-- 💡 Passionate about building secure and scalable infrastructure
-- 🎯 Focused on career transition to **DevOps / DevSecOps Engineering**
-- ✍️ I regularly write on **LinkedIn** sharing my learning journey
+🚀 **DevSecOps & Cloud Enthusiast | Former Amazon Investigation Associate | Lifelong Learner**
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🧭 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-1f425f?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
+I'm a tech-driven professional passionate about **DevSecOps, Cloud Infrastructure, and Automation**.  
+After honing my analytical and problem-solving skills at Amazon, where I investigated complex risk and compliance issues, I transitioned into DevOps engineering to build scalable, secure, and automated systems.
+
+I now focus on designing end-to-end CI/CD pipelines, implementing Infrastructure as Code (IaC) using tools like Terraform and Ansible, managing containerized environments with Docker, and enhancing cloud security practices across AWS.
+
+My goal is simple — **automate efficiently, deploy securely, and scale confidently**.
 
 ---
 
-## 🛠️ Projects & Work
+### ⚙️ Tech Stack
 
-- 🔐 **Secure Password Manager** - AES encryption, CLI interface, secrets module for generating strong passwords  
-- 🌐 **Resume Builder Web App** - HTML/CSS/JS powered, PDF download, clean UI  
-- 📊 **Online Food Order Data Analysis** - SQL + Python + Power BI for insights and forecasting  
-- 📦 **RoboShop Infrastructure** - Terraform + Ansible-based automation of multi-tier e-commerce application  
+**💻 Languages & Scripting:**  
+- Python 🐍 | Bash 🧠 | YAML | SQL | JavaScript  
 
+**☁️ Cloud & Infrastructure:**  
+- AWS (EC2, S3, IAM, CloudWatch) | Terraform | Docker | Ansible  
+
+**🔐 Security & Monitoring:**  
+- Splunk | Prometheus | Grafana | Security Audits | SIEM Concepts  
+
+**⚡ DevOps Tools & CI/CD:**  
+- GitHub Actions | Jenkins | Docker Compose | Cron Jobs | Linux | Kubernetes 
 
 ---
+
+### 🧪 Current Focus
+
+- Building **real-world DevOps projects** using Bash, Ansible, Terraform & AWS  
+- Strengthening **DevSecOps principles** — security-first automation  
+- Sharing my **learning journey** through **LinkedIn blogs and GitHub repos**
+
+---
+
+### 📂 Featured Projects
+
+🔹 [Linux Automation Scripts](https://github.com/yourusername/linux-automation) — Handy scripts for daily system administration  
+🔹 [CI/CD with GitHub Actions](https://github.com/yourusername/ci-cd-pipeline) — End-to-end pipeline for Dockerized apps  
+🔹 [Ansible Playbook Collection](https://github.com/yourusername/ansible-deployments) — Automating environment setups  
+
+*(More projects coming soon as I keep building!)*
+
 
 ## 📚 Certifications
 
@@ -57,7 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakumar-reddy-mettukuru)  
 📧 Email: prashanthteja2002@gmail.com  
-🌐 Portfolio: https://devsec-portfolio-ninja.lovable.app/
+🌐 Portfolio: (https://portfolio-architect-73.lovable.app)
 
 ---
 
